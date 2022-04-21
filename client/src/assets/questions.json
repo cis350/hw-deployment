@@ -1,0 +1,81 @@
+[{
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/640px-Justin_Bieber_in_2015.jpg",
+		"option1": "Justin Bieber",
+		"option2": "Tom Cruise",
+		"option3": "Harry Styles",
+		"option4": "Tom Holland",
+		"correct": "option1"
+	},
+	{
+		"img": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg",
+		"option1": "Hailee Steinfeld",
+		"option2": "Scarlett Johansson",
+		"option3": "Emily Blunt",
+		"option4": "Blake Lively",
+		"correct": "option2"
+	},
+	{
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Simu_Liu_by_Gage_Skidmore.jpg/220px-Simu_Liu_by_Gage_Skidmore.jpg",
+		"option1": "Jet Li",
+		"option2": "Tony Leung",
+		"option3": "Jackie Chan",
+		"option4": "Simu Liu",
+		"correct": "option4"
+	},
+	{
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Don_Cheadle_UNEP_2011_%28cropped%29.jpg/220px-Don_Cheadle_UNEP_2011_%28cropped%29.jpg",
+		"option1": "Don Cheadle",
+		"option2": "Idris Elba",
+		"option3": "Morgan Freeman",
+		"option4": "Michael Jordan",
+		"correct": "option1"
+	},
+	{
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/220px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+		"option1": "Taylor Swift",
+		"option2": "Nelson Mandela",
+		"option3": "Mahatma Gandhi",
+		"option4": "Jason Bourne",
+		"correct": "option3"
+	},
+	{
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TechCrunch_Disrupt_2019_%2848834853256%29_%281%29.jpg/220px-TechCrunch_Disrupt_2019_%2848834853256%29_%281%29.jpg",
+		"option1": "Jackie Robinson",
+		"option2": "Stephen Curry",
+		"option3": "Brad Pitt",
+		"option4": "Seth Curry",
+		"correct": "option2"
+	},
+	{
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NIKI_2020.jpg/220px-NIKI_2020.jpg",
+		"option1": "Billie Eilish",
+		"option2": "Alicia Keys",
+		"option3": "Jhene Aiko",
+		"option4": "Nicole Zefanya",
+		"correct": "option4"
+	},
+	{
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pewdiepie_head_shot.jpg/220px-Pewdiepie_head_shot.jpg",
+		"option1": "Brigitte Nielsen",
+		"option2": "Florian Munteanu",
+		"option3": "Felix Kjellberg",
+		"option4": "Dolph Lundgren",
+		"correct": "option3"
+	},
+	{
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/220px-Official_Portrait_of_President_Reagan_1981.jpg",
+		"option1": "Ronald Reagan",
+		"option2": "George Bush",
+		"option3": "Thomas Jefferson",
+		"option4": "Andrew Jackson",
+		"correct": "option1"
+	},
+	{
+		"img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Batman_Infobox.jpg",
+		"option1": "Peter Parker",
+		"option2": "Clark Kent",
+		"option3": "Bruce Wayne",
+		"option4": "Steve Rogers",
+		"correct": "option3"
+	}
+]

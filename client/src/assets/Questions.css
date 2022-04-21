@@ -1,0 +1,37 @@
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+  /* The floats after the columns are cleared */
+.row:after {
+  content: “”;
+  display: table;
+  clear: both;
+}
+
+.submit-button {
+  background-color: dimgray;
+  color: white;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  font-weight: 700;
+  margin-top: 40px;
+}
+
+.questions {
+  margin-top: 20px;
+}
+
+.light-blue-rectangle {
+  position: 10px;
+  background-color: lightblue;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  width: 160px;
+  margin: auto;
+  text-align:left;
+  font-size: small;
+}

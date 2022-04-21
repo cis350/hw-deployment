@@ -1,0 +1,76 @@
+
+.column {
+  float: left;
+  width: 33.33%;
+  text-align: center;
+  }
+  /* The floats after the columns are cleared */
+.row:after {
+  content: “”;
+  display: table;
+  clear: both;
+}
+
+.list-wrapper {
+  position: relative;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.list{
+  margin: auto;
+}
+
+.restart-button {
+  background-color: dimgray;
+  color: white;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  font-weight: 700;
+  margin-top: 104px;
+}
+
+.results-top-10-box {
+  background-color: dimgray;
+  color: white;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  font-weight: 700;
+  margin-top: 40px;
+  text-align: center;
+  margin: auto;
+}
+
+.top-10-text {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 12px;
+}
+
+.top-10-margin {
+  margin-top: 40px;
+}
+
+.good-job-wrapper {
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.score-wrapper {
+  background-color: rgb(78, 169, 255);
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.score-wrapper p{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "mongo_node_express",
+  "version": "1.0.0",
+  "description": "HW5: Guess the Celebrity App (backend)",
+  "main": "server.js",
+  "scripts": {
+    "lint": "eslint *.js",
+    "test": "jest --coverage --forceExit",
+    "start": "node server.js",
+    "build": "npm install && cd client && npm install && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0",
+    "path": "^0.12.7",
+    "supertest": "^6.2.2"
+  }
+}
